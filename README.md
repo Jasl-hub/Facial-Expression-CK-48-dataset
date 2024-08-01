@@ -1,3 +1,3 @@
-# Facial-Expression--CK-
-A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 98.57% in CK+ dataset.
+# Facial-Expression CK+48
+A CNN based pytorch implementation on CK+48 dataset achieving 99.11%.
 
