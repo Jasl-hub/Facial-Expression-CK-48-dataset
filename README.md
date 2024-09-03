@@ -22,7 +22,7 @@ The main objective of this project is to develop a deep learning model capable o
 
 1. **Clone the repository**:
     ```bash
-    git clone (https://github.com/Jasl-hub/Facial-Expression-CK-48-dataset.git)
+    git clone https://github.com/Jasl-hub/Facial-Expression-CK-48-dataset.git
     ```
 
 2. **Install dependencies**:
